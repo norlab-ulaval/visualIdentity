@@ -7,5 +7,5 @@ Visual identity of Norlab including logos and fonts.
 
 ## Fonts
 
-Capture It by Magique Fonts 
-Flamenco by LatinoType 
+- Capture It by Magique Fonts 
+- Flamenco by LatinoType 
