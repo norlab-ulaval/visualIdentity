@@ -13,8 +13,8 @@
    height="186.55368"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="norlab_acronym_stamp_light.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="norlab_logo_acronym_light.svg"
    inkscape:export-filename="/home/frank/research/drawings/norlab_acronym_light_stamp.png"
    inkscape:export-xdpi="139.50999"
    inkscape:export-ydpi="139.50999">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="266.26138"
-     inkscape:cy="116.79056"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="288.67981"
+     inkscape:cy="66.597363"
      inkscape:document-units="px"
      inkscape:current-layer="g3959-3"
      showgrid="false"
@@ -73,7 +73,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5160"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        transform="translate(0.6882869,-0.85234398)"><flowRegion
          id="flowRegion5162"><rect
            id="rect5164"
@@ -81,7 +81,8 @@
            height="61.114227"
            x="170.21071"
            y="619.67145" /></flowRegion><flowPara
-         id="flowPara5166" /></flowRoot>    <g
+         id="flowPara5166"
+         style="font-size:40px;line-height:1"> </flowPara></flowRoot>    <g
        id="g3959-3"
        transform="translate(55.559883,-54.548237)">
       <g
