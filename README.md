@@ -30,3 +30,9 @@ The following figure is the source with text fields. If the fonts don't render a
 
 - Capture It by Magique Fonts 
 - Flamenco by LatinoType 
+
+## Formats
+
+- Latex: pdf
+- Website: svg
+
